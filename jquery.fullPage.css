@@ -48,7 +48,8 @@ html.fp-enabled,
 .fp-section.fp-table, .fp-slide.fp-table {
     display: table;
     table-layout:fixed;
-    width: 100%;
+    width: 30%;
+    min-width: 500px;
 }
 .fp-tableCell {
     display: table-cell;
